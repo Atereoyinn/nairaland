@@ -1,0 +1,121 @@
+body a:hover{
+    background-color:goldenrod;
+    }
+body {
+    background-color:white;
+    padding: 15px 5px 15px 5px;
+    }
+body a {
+    text-decoration: none;
+    color: rgb(9, 9, 110);
+    font-weight: bold;
+    hov
+    
+    }
+.navigation {
+    text-align:center;
+    color:black;
+    border-radius:15px;
+    background: rgb(230, 230, 196) ;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding-bottom: 20px;
+    padding-top: 2px;
+    }
+.navigation h1 { 
+    color: darkgreen;
+    font-size: 40px;font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.navigation a {
+    color: rgb(9, 9, 110); font-weight:bold ;
+    }
+.tab_search {
+    text-align: center;
+    width:20%;
+    height: 20px;
+    border-radius:15px;
+    }
+.tab_search_2 {
+    text-align: center;
+    border-radius:15px;
+    height: 20px;
+    background: white;
+    }
+.navbar {
+    border-radius: 15px;
+    background:;
+    }
+.navbar h3 {
+    padding: 10px 0 10px 0;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+    background:  rgb(230, 230, 196) ;
+    font-weight: bold;
+    }
+.navbar_1 {
+    text-align: center;
+    }
+.navbar_2 {
+    padding: 2px 0 2px 0;
+    background: rgb(230, 230, 196) ;
+    text-align: center;
+    
+    }
+.navbar_3 {
+    text-align: center;
+    
+    }
+.center-body {
+
+    text-align: center;
+
+
+    }
+.main_header  p {
+    text-align: center;
+    color:rgb(88, 66, 66) ;
+    font-size: 20px;
+    font-weight: bold;
+    word-spacing: 0.05em;
+    }
+.main_header li {
+    text-align: center;
+    list-style-type: none;
+    }
+.bottom_foot {
+    background:   rgb(230, 230, 196) ;
+    font-weight: bold;
+    border-radius: 0 0 15px 15px;
+    }
+.go_up {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    }
+.footer {
+    text-align: center;
+    border-radius: 15px;
+    background: rgb(230, 230, 196);
+    margin: 20px 0 20px 0;
+    padding: 10px 0 10px 0;
+
+    }
+span {
+    font-weight: bold;
+}
+.advert {
+display: inline-block;
+text-align: center;
+border-radius: 5px;
+}
+.ad_image {
+    border-radius: 15px;
+    margin: 3px;
+    padding: 6px;
+}
+
+#date {
+    display: inline-block;
+    font-weight: lighter;
+}
